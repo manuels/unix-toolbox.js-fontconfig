@@ -2,7 +2,7 @@
 #define _FONTCONFIG_SRC_FCSTDINT_H 1
 #ifndef _GENERATED_STDINT_H
 #define _GENERATED_STDINT_H "fontconfig 2.10.91"
-/* generated using gnu compiler gcc (GCC) 4.7.2 20121109 (Red Hat 4.7.2-8) */
+/* generated using gnu compiler emcc (Emscripten GCC-like replacement) 2.0 */
 #define _STDINT_HAVE_STDINT_H 1
 #include <stdint.h>
 #endif
